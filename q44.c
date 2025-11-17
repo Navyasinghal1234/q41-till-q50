@@ -1,4 +1,5 @@
-//WAP TO FIND THE SUM OF SERIES: 2/3 +4/7 +1 6/11 + 8/15 +...... UP TO TERMS.
+//WAP TO FIND THE SUM OF SERIES: 1 + 3/4 + 5/6 + 7/8 + ...UP TO N TERMS
+
 #include <stdio.h>
 
 int main() {
